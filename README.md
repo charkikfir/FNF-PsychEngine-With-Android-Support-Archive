@@ -10,7 +10,7 @@ To install LuaJIT do this: `haxelib git linc_luajit https://github.com/jigsaw-42
 
 ...Or if you don't want your mod to be able to run .lua scripts, delete the "LUA_ALLOWED" line on Project.xml
 
-If you get an error about StatePointer when using Lua, run `haxelib remove linc_luajit` into CMD/PowerShell, then re-install linc_luajit.
+If you geat an error about StatePointer when using Lua, run `haxelib remove linc_luajit` into CMD/PowerShell, then re-install linc_luajit.
 _____________________________________
 
 ### Build Instructions For Android:
